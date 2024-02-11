@@ -32,11 +32,11 @@ body {
     font-size: 40px; 
 }
 #yesButton {
-    background-color: pink;
+    background-color: green;
     color: white;
 }
 
 #noButton {
-    background-color: pink;
+    background-color: red;
     color: white;
 }
